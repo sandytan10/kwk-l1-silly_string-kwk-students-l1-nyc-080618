@@ -23,7 +23,7 @@ puts "#{lowercased_phrase}"
 
 big_word = "supercalifragilisticexpialidocious"
 
-letter_count = big_word.length 
+letter_count = big_word.size
 
 puts "There are #{letter_count} in #{big_word}"
 
